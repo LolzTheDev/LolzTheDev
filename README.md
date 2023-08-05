@@ -1,16 +1,19 @@
-### Hi there 👋
+# Introduction
+Hi, I'm **LolzTheGreat**.
 
-<!--
-**LolzTheDev/LolzTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an intermediate **Python** dev and beginner in **NodeJS**.
 
-Here are some ideas to get you started:
+My goal is to make _amazing_, _useful_ **Discord bots**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Facts/Extra
+Current Projects:
+🔥﹡`Flame`  | ⚡﹡`Surge`
+
+Here's Some Interesting Things About Me:
+- Bot Developer
+- Coder/programmer for 3 years
+- Inspired by friends and other devs
+- I know basic Java, and Bukkit API
+- I'm learning Pycord
+- I'm mastering Python
+- I'm learning Node.js
