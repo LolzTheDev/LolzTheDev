@@ -1,25 +1,25 @@
 # Introduction
 Hi, I'm **LolzTheGreat**.
 
-I'm an intermediate **Python** dev and beginner in **NodeJS**.
+I'm a decent Python Dev with experience in Java, and NodeJS.
 
-My goal is to make _amazing_, _useful_ **Pycord bots**!
+I'm currently helping with development on @TweeterOfficial!
 
 # Facts/Extra
 Current Projects:
-🔥﹡`Flame`  | ⚡﹡`Surge`
+[ 🐦﹡`Tweeter` ]
 
 Here's Some Interesting Things About Me:
-- Bot Developer
-- Coder/programmer for 3 years
+- Decent in PyMongo/MongoDB (very basic)
+- Coder/programmer for 3 years!
 - Inspired by friends and other devs
 - I know basic Java, and Bukkit API
-- I'm learning Pycord
+- Learning Flask
 - I'm mastering Python
 - I'm learning Node.js
 
 VSCode Settings:
 - Font: JetBrains Mono
-- Font Size: 12
-- GUI Scale: 1
-- Theme: One Dark Monokai
+- Font Size: 16
+- GUI Scale: 2
+- Theme: Dracula Official
