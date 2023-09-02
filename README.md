@@ -6,8 +6,6 @@ I'm a decent Python Dev with experience in Java, and NodeJS.
 I'm currently helping with development on @TweeterOfficial!
 
 # Facts/Extra
-Current Projects:
-[ 🐦﹡`Tweeter` ]
 
 Here's Some Interesting Things About Me:
 - Decent in PyMongo/MongoDB (very basic)
