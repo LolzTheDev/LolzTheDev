@@ -3,8 +3,6 @@ Hi, I'm **LolzTheGreat**.
 
 I'm a decent Python Dev with experience in Java, and NodeJS.
 
-I'm currently helping with development on @TweeterOfficial!
-
 # Facts/Extra
 
 Here's Some Interesting Things About Me:
@@ -17,7 +15,7 @@ Here's Some Interesting Things About Me:
 - I'm learning Node.js
 
 VSCode Settings:
-- Font: JetBrains Mono
+- Font: DM Mono
 - Font Size: 16
 - GUI Scale: 2
-- Theme: Dracula Official
+- Theme: Ayu One Dark
