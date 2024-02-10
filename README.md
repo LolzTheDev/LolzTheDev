@@ -3,7 +3,7 @@ Hi, I'm **LolzTheGreat**.
 
 I'm a decent Python Dev with experience in Java, and NodeJS.
 
-[![Statistics](https://github-readme-stats.vercel.app/api?username=lolzthedev)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue)](https://git.io/streak-stats)
 
 # Facts/Extra
 
