@@ -1,23 +1,24 @@
-# Introduction
-Hi, I'm **LolzTheGreat**.
+<div align="center">
+  <h1>zirconium</h1>
+  <img src="https://img.shields.io/badge/Python-blue?logo=Python&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=Javascript&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-llgreen?logo=Mongodb&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VueJS-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" /> <br />
+  
+  <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br />
+  
+  <p>Hi, I'm Zirconium and I make random things.</p> <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" /> <br />
 
-I'm a decent Python Dev with experience in Java, and NodeJS.
+  <h2>Languages / Tools</h2> <br />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue)](https://git.io/streak-stats)
-
-# Facts/Extra
-
-Here's Some Interesting Things About Me:
-- Decent in PyMongo/MongoDB (very basic)
-- Coder/programmer for 3 years!
-- Inspired by friends and other devs
-- I know basic Java, and Bukkit API
-- Learning Flask
-- I'm mastering Python
-- I'm learning Node.js
-
-VSCode Settings:
-- Font: DM Mono
-- Font Size: 16
-- GUI Scale: 2
-- Theme: Ayu One Dark
+  <br /> <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzthedev&theme=cue" />
+</div>
