@@ -7,7 +7,9 @@
   
   <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br />
   
-  <p>Hi, I'm Zirconium and I make random things.</p> <br />
+  <p>Hi, I'm Zirconium and I make random things.</p>
+  <a href="zirc.lol">My Website</a> <br /> <br />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" /> <br />
 
   <h2>Languages / Tools</h2> <br />
