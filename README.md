@@ -1,26 +1,50 @@
-<div align="center">
+<div>
   <h1>spark</h1>
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=Javascript&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-llgreen?logo=Mongodb&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VueJS-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" /> <br />
+  <img src="https://img.shields.io/badge/VueJS-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-fc3b04?logo=Svelte&style=for-the-badge&logoColor=white" /> <br />
   
   <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br />
   
-  <p>Hi, I'm spark and I make random things usually involving web dev!</p>
-  <a href="https://zirc.lol">My Website</a> <br /> <br />
+  <p>👋 heya, i'm spark and i code things in my free time</p>
+  <p>🌐 my website: <a href="https://zirc.lol">zirc.lol</a></p>
   
+  <h2>Languages & Tools</h2>
+  <ul>
+    <li>
+      ☕
+      <b>Node.JS & TypeScript</b>
+    </li>
+    <li>
+      🐍
+      <b>Python</b>
+    </li>
+    <li>
+      🐘
+      <b>(Basic) PHP</b>
+    </li>
+    <li>
+      🍂
+      <b>MongoDB</b>
+    </li>
+    <li>
+      🌐
+      <b>Svelte</b>
+    </li>
+    <li>
+      🎐
+      <b>Tailwind CSS</b>
+    </li>
+    <li>
+      ✨
+      <b>CSS</b>
+    </li>
+  </ul>
+  
+  <h2>Statistics</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzthedev&theme=cue" /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" /> <br />
-
-  <h2>Languages / Tools</h2> <br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-
-  <br /> <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzthedev&theme=cue" />
 </div>
