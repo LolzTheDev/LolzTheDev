@@ -11,6 +11,8 @@
   <p>👋 heya, i'm spark and i code things in my free time</p>
   <p>🌐 my website: <a href="https://zirc.lol">zirc.lol</a></p>
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" />
+  
   <h2>Languages & Tools</h2>
   <ul>
     <li>
@@ -42,9 +44,4 @@
       <b>CSS</b>
     </li>
   </ul>
-  
-  <h2>Statistics</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolzthedev&theme=cue" /> <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" /> <br />
 </div>
