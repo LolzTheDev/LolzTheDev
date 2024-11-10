@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Python-blue?logo=Python&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=Javascript&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-llgreen?logo=Mongodb&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VueJS-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-fc3b04?logo=Svelte&style=for-the-badge&logoColor=white" /> <br />
   
   <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br />
