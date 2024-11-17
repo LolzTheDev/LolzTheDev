@@ -11,7 +11,7 @@
   <p>👋 heya, i'm spark and i code things in my free time</p>
   <p>🌐 my website: <a href="https://zirc.lol">zirc.lol</a></p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" />
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=LolzTheDev&theme=vue" />-->
   
   <h2>Languages & Tools</h2>
   <ul>
