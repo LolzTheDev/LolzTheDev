@@ -32,7 +32,7 @@
       <b>MongoDB</b>
     </li>
     <li>
-      🌐
+      🪡
       <b>Svelte</b>
     </li>
     <li>
