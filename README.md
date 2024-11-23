@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Vue-43d970?logo=Vue.js&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-fc3b04?logo=Svelte&style=for-the-badge&logoColor=white" /> <br />
   
-  <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br />
+  <img src="https://komarev.com/ghpvc/?username=lolzthedev&style=for-the-badge&color=blue" alt=""/>  <br /> 
   
   <p>👋 heya, i'm spark and i code things in my free time</p>
   <p>🌐 my website: <a href="https://zirc.lol">zirc.lol</a></p>
